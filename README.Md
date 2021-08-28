@@ -2,8 +2,8 @@
 It is a simple python module that convert pdf to text
 # usage
 ```
-Import pdftotext
-pdftotext.convert(filename)
+Import pdftotextsimple
+pdftotextsimple.convert(filename)
 ```
 # installation 
 Stable version: `pip install pdftotextsimple==0.0.1`
