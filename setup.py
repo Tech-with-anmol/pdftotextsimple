@@ -10,7 +10,7 @@ classifiers = [
  
 setuptools.setup(
   name='pdftotextsimple',
-  version='0.0.2',
+  version='0.0.3',
   description='a module that can convert pdf to text',
   long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='https://github.com/Tech-with-anmol/pdftotexthttps://github.com/Tech-with-anmol/pdftotextsimple',  
@@ -19,9 +19,6 @@ setuptools.setup(
   license='MIT', 
   classifiers=classifiers,
   keywords='pdf', 
-  packages=setuptools.find_packages(where="src"),
-  install_requires=['PyPDF2'],
-  package_dir={"":"src"},
-  python_requires=">=3.6",
-  py_modules=['main']
+  packages=setuptools.find_packages(),
+  install_requires=['PyPDF2']
 )
