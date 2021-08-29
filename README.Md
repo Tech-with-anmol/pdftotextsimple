@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="logo" src="https://github.com/Tech-with-anmol/pdftotextsimple/blob/main/images.png?raw=true" width='100px' height='100px'/>
+</p>
+
 <p align="center"><a href="https://GitHub.com/Tech-with-anmol/pdftotextsimple/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"></a>
 <a href="https://pepy.tech/project/pdftotextsimple"><img src="https://static.pepy.tech/personalized-badge/pdftotextsimple?period=total&amp;units=international_system&amp;left_color=orange&amp;right_color=brightgreen&amp;left_text=Downloads" alt="Downloads"></a>
 <a href="https://pypi.python.org/pypi/pdftotextsimple/"><img src="https://badge.fury.io/py/pdftotextsimple.svg" alt="PyPI version"></a>
